@@ -1,0 +1,16 @@
+{
+    "imaging_configs" : {
+        "filepath" : "ricericerice",
+        "xres" : 400,
+        "yres" : 400,
+        "iso" : 100,
+        "exposure_mode" : "on"
+    },
+    "exstate_configs" : {
+        "max_angle" : 0.69,
+        "ground_alt" : 100,
+        "altitude_threshold" : 10000,
+        "accel_threshold": 3,
+        "time_threshold": 2000
+    }
+}
